@@ -1,0 +1,14 @@
+:root {
+    --cor1: #81632F;
+    --cor2: #757575;
+    --cor3: #050505;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    background-color: var(--cor2);
+    width: 100vw;
+    height: 400px;
+}
